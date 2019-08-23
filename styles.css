@@ -1,0 +1,33 @@
+/* add your CSS here */
+.container{
+  width: 300px;
+  border: 1px solid lightgray;
+  padding: 10px;
+  box-shadow: 5px 10px gray;
+}
+.textbox{
+  width: 295px;
+  text-align: left;
+  font-size: 15px;
+  font-family:sans-serif;
+  border: 1px solid lightgray;
+  padding: 4px;
+}
+.interestingfacts{
+  font-size: 15px;
+  font-style:italic;
+}
+ul{
+  list-style-type: none;
+  padding: 0;
+  margin-left: 0;
+}
+li span{
+  font: bold 15px arial, sans-serif;
+}
+h3{
+  padding: 5px;
+}
+img{
+  padding: 5px;
+}
